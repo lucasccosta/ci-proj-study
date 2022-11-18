@@ -2,7 +2,7 @@ package main
 
 import "testing"
 
-func TestSomaPositives(t *testing, T){
+func TestSomaPositives(t *testing.T){
 
 	total := SomaPositives(2, 5)
 
